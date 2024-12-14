@@ -10,13 +10,13 @@
         <a class="nav-link active" aria-current="page" href="/penti_is62/projek/index.php">Beranda</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="#">Data Mahasiswa</a>
+        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_mahasiswa/index.php">Data Mahasiswa</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="modul_jurusan/index.php">Data Jurusan</a>
+        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_jurusan/index.php">Data Jurusan</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="modul_dosen/index.php">Data Dosen</a>
+        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_dosen/index.php">Data Dosen</a>
         </li>
 
           </ul>
