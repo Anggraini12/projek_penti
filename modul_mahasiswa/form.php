@@ -88,7 +88,7 @@
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Foto</label>
-                    <input type="file" name="nama" class="form-control" id="exampleInputPassword1">
+                    <input type="file" accept="image/*" name="foto" class="form-control" id="exampleInputPassword1">
                 </div>
 
 
