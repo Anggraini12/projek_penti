@@ -7,17 +7,21 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/index.php">Beranda</a>
+          <a class="nav-link active" aria-current="page" href="/penti_is62/projek/index.php">Beranda</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_mahasiswa/index.php">Data Mahasiswa</a>
+          <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_mahasiswa/index.php">Data Mahasiswa</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_jurusan/index.php">Data Jurusan</a>
+          <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_jurusan/index.php">Data Jurusan</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_dosen/index.php">Data Dosen</a>
+          <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_dosen/index.php">Data Dosen</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/penti_is62/projek/logout.php">Logout</a>
+        </li>
+        
 
           </ul>
          <form class="d-flex" role="search">
