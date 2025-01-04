@@ -45,8 +45,8 @@ $data = mysqli_fetch_array($edit)
                     <input type="text" value="<?=$data['nim']?>" name="nim" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 </div>
                 <div class="mb-3">
-                    <label for="exampleInputPassword1" class="form-label">Nama Lengkap</label>
-                    <input type="text" value="<?=$data['nam']?>" name="nama" class="form-control" id="exampleInputPassword1">
+                    <label for="exampleInputPassword1" class="form-label">Nama Mahasiswa</label>
+                    <input type="text" value="<?=$data['nm_mhs']?>" name="nama" class="form-control" id="exampleInputPassword1">
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Tempat Lahir</label>
@@ -54,7 +54,7 @@ $data = mysqli_fetch_array($edit)
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Tanggal Lahir</label>
-                    <input type="text" value="<?=$data['tgl_lahir']?>" name="tanggal" class="form-control" id="exampleInputPassword1">
+                    <input type="date" value="<?=$data['tgl_lahir']?>" name="tanggal" class="form-control" id="exampleInputPassword1">
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Alamat</label>
@@ -62,7 +62,7 @@ $data = mysqli_fetch_array($edit)
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Email</label>
-                    <input type="email" name="email" value="<?=$data['email']?>" class="form-control" id="exampleInputPassword1">
+                    <input type="email" name="email" value="<?=$data['email_mhs']?>" class="form-control" id="exampleInputPassword1">
                 </div>
                 <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Jenis Kelamin</label>

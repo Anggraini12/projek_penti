@@ -19,6 +19,9 @@
           <a class="nav-link active" aria-current="page" href="/penti_is62/projek/modul_dosen/index.php">Data Dosen</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/penti_is62/projek/ubah_password.php">Ubah password</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/penti_is62/projek/logout.php">Logout</a>
         </li>
         
